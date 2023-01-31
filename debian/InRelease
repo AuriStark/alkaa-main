@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Components: main
+Date: Tue, 31 Jan 2023 15:31:07 GMT
+Description: Public archive for Alkaa Main
+Origin: Alkaa Main
+Suite: debian
+MD5Sum:
+ a920517b08cbc601fa9aac1b3ba84583               530 Packages
+ 437fef5d9e7abd72b1044c2a39320e03               444 Packages.xz
+SHA1:
+ 250eae75ff8e7040c96b4bc6cbb489ec73c0482d               530 Packages
+ b6eca85e0f7eef86b515443b7eed7f8cf2f6d319               444 Packages.xz
+SHA256:
+ c87bbf5ffff4741146f62119abb899b06f134d32a46898349a2c9a639c782341               530 Packages
+ 123071c77a96449f1673e4f571727b749cf006a3da48cde05ab1f7475dbeb98a               444 Packages.xz
+SHA512:
+ 119728f0b9f107ea1f691f83f1e0868989aa91581c1c0614aac44ac7cd12b4721782f092c284460c4caec725591522f9c047ff3571cac6bdbc15201869a421df               530 Packages
+ 3bfe31735a56d88fd6cbc367ad65b2dc1562dd47982e79dc81652939f6ad8ae6b68891019d2d5007b46ff02ed3f6e86cb6792c071818b8ed788b7453854239d5               444 Packages.xz
+-----BEGIN PGP SIGNATURE-----
+Version: BCPG v1.69
+
+iF4EARMIAAYFAmPZNDsACgkQnCxopWwH2qbjlAEA+Iq2k7X5/9hQMWVdeJ/gvDag
+dVOtGNCTK0FZrUJOPE0BAPGua6TWWoYqPuA+r1npAbfyNSgnQSsEZmcgb0TeJNTL
+=t4mx
+-----END PGP SIGNATURE-----

@@ -1,0 +1,22 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Alkaa Main Changelog</title>
+        <link>http://localhost:8899/appcast-aarch64.rss</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <link>http://localhost:8899/</link>
+            <sparkle:version>1.0.0</sparkle:version>
+            <description>
+                <![CDATA[ New release: version 1.0.0 ]]>
+            </description>
+            <pubDate>Tue, 31 Jan 2023 15:30:32 GMT</pubDate>
+            <enclosure url="http://localhost:8899/alkaa-main-1.0-mac-aarch64.zip" 
+                       length="49626112" 
+                       type="application/octet-stream" 
+                       sparkle:edSignature="Wdnv7iBe+54gL5fl/vIGqbtv/QEskW9ctWgou2gu2EBGl0aRaAC4MNJiAth9eZe9BrHEHcyvPi29I7FnufV/DA=="/>
+        </item>
+            
+    </channel>
+</rss>

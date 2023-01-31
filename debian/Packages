@@ -1,0 +1,14 @@
+Architecture: amd64
+Built-With: Hydraulic Conveyor
+Depends: libxi6, libasound2 | liboss4-salsa-asound2, libx11-6, libgcc-s1, libgl1 | nvidia-340, libxtst6, zlib1g, libfontconfig1, libxext6, libc6, libfreetype6, libxrender1, libstdc++6
+Description: Alkaa Main
+Installed-Size: 114596
+Maintainer: <nobody@localhost>
+Package: alkaa-main
+Priority: optional
+Provides: alkaa-main
+Section: misc
+Version: 1.0
+Filename: debian/alkaa-main_1.0_amd64.deb
+Size: 41989000
+SHA256: 7f5d45b465536a916d8d57c90b22203b67e1410d1e7e41bd941c8a83e3f1a590
